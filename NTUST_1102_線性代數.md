@@ -1,4 +1,4 @@
-# NTUST_1102_線性代數
+# NTUST_1102_線性代數1
 ## 1.1 System of Linear Equation
 ### m*n linear system
 - no solution：inconsistent
@@ -357,11 +357,6 @@
 :::info
 以上為期中考範圍
 :::
-
-
-
-
-
 
 
 
